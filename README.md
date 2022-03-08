@@ -1,4 +1,4 @@
-# POC Exploit to add user to Sudo for Dirty Pipe Vulnerability
+# POC Exploit to add user to Sudo for CVE-2022-0847 Dirty Pipe Vulnerability
 
 This repo is based of the Vulnerability, Writeup and Exploit produced by Max Kellermann all found [here](https://dirtypipe.cm4all.com/).
 
