@@ -9,7 +9,7 @@ PIPESIZE = 65536
 
 
 def backup_groups_file():
-    """Back up for just for working on the POC"""
+    """Back up just for working on the POC"""
     with open("/etc/group", "r") as group:
         with open("/tmp/group_backup", "w") as backup:
             data = group.read()
